@@ -497,14 +497,6 @@ def compute_update(
         user = clean_username(users.get(level.uid, "?"))
         clan = user_clans.get(user.casefold()) or None
 
-        if old is not None and old.clan and old.clan != clan:
-            credit = TIER_POINTS[old.tier]
-            points[old.clan] = points.get(old.clan, 0) - credit
-            net[old.clan] = net.get(old.clan, 0) - credit
-            if clan:
-                points[clan] = points.get(clan, 0) + credit
-                net[clan] = net.get(clan, 0) + credit
-
         if old is not None and old.tier == level.tier and old.uid == level.uid:
             if old.user != user or old.clan != clan:
                 levels[level_id] = LevelRecord(old.tier, old.uid, user, clan)
@@ -543,7 +535,7 @@ def compute_update(
         if level_id in tiers:
             continue
         removed_points = TIER_POINTS.get(record.tier, 0)
-        clan = record.clan or user_clans.get(record.user.casefold())
+        clan = user_clans.get(record.user.casefold()) or record.clan
         if removed_points and clan:
             points[clan] = points.get(clan, 0) - removed_points
             net[clan] = net.get(clan, 0) - removed_points
