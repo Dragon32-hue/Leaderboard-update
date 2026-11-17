@@ -1,11 +1,11 @@
 {
   "version": 2,
   "points": {
-    "RED": 207,
+    "RED": 46,
     "GREEN": 39,
     "BLUE": 50,
     "YELLO": 33,
-    "TCD": -116,
+    "TCD": 5,
     "BRD": 1
   },
   "levels": {
