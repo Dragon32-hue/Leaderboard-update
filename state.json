@@ -4,7 +4,7 @@
     "RED": 46,
     "GREEN": 39,
     "BLUE": 50,
-    "YELLO": 33,
+    "YELLO": 32,
     "TCD": 5,
     "BRD": 1
   },
@@ -1926,7 +1926,7 @@
     "1654": {
       "tier": "star",
       "uid": "867",
-      "user": "galactice",
+      "user": "Galactice",
       "clan": "GREEN"
     },
     "1920": {
@@ -2010,7 +2010,7 @@
     "1578": {
       "tier": "star",
       "uid": "867",
-      "user": "galactice",
+      "user": "Galactice",
       "clan": "GREEN"
     },
     "1073": {
@@ -2226,7 +2226,7 @@
     "1859": {
       "tier": "star",
       "uid": "867",
-      "user": "galactice",
+      "user": "Galactice",
       "clan": "GREEN"
     },
     "394": {
@@ -2696,12 +2696,6 @@
       "uid": "1010",
       "user": "Cyri",
       "clan": "GREEN"
-    },
-    "2160": {
-      "tier": "star",
-      "uid": "841",
-      "user": "DeMooniC",
-      "clan": "YELLO"
     },
     "2129": {
       "tier": "star",
