@@ -1,11 +1,11 @@
 {
   "version": 2,
   "points": {
-    "RED": 46,
+    "RED": 207,
     "GREEN": 39,
     "BLUE": 50,
     "YELLO": 33,
-    "TCD": 5,
+    "TCD": -116,
     "BRD": 1
   },
   "levels": {
@@ -67,7 +67,7 @@
       "tier": "mythic",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "241": {
       "tier": "legendary",
@@ -145,7 +145,7 @@
       "tier": "legendary",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "1052": {
       "tier": "legendary",
@@ -181,7 +181,7 @@
       "tier": "legendary",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "332": {
       "tier": "legendary",
@@ -535,13 +535,13 @@
       "tier": "epic",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "651": {
       "tier": "epic",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "1949": {
       "tier": "epic",
@@ -673,7 +673,7 @@
       "tier": "featured",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "1318": {
       "tier": "featured",
@@ -769,7 +769,7 @@
       "tier": "featured",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "1815": {
       "tier": "featured",
@@ -901,7 +901,7 @@
       "tier": "featured",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "1568": {
       "tier": "featured",
@@ -1075,7 +1075,7 @@
       "tier": "featured",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "1545": {
       "tier": "featured",
@@ -1765,7 +1765,7 @@
       "tier": "star",
       "uid": "143",
       "user": "Dragon",
-      "clan": "TCD"
+      "clan": "RED"
     },
     "768": {
       "tier": "star",
@@ -2708,6 +2708,12 @@
       "uid": "1089",
       "user": "Square",
       "clan": null
+    },
+    "2177": {
+      "tier": "mythic",
+      "uid": "143",
+      "user": "Dragon",
+      "clan": "RED"
     }
   }
 }
