@@ -33,6 +33,11 @@ class TestParseLevels(unittest.TestCase):
         self.assertEqual(levels[1]["2"], "Level Two")
         self.assertEqual(users, {"127": "Astro", "128": "Bboppa"})
 
+    def test_strips_account_id_from_username(self):
+        response = "1:409:2:Level One:6:127#127:Astro:125|128:Bboppa:206#"
+        _, users = lb.parse_levels(response)
+        self.assertEqual(users, {"127": "Astro", "128": "Bboppa"})
+
     def test_empty_and_malformed_responses(self):
         self.assertEqual(lb.parse_levels("-1"), ([], {}))
         self.assertEqual(lb.parse_levels("#"), ([], {}))
@@ -204,16 +209,16 @@ class TestComputeUpdate(unittest.TestCase):
         self.assertEqual(demotion[2]["RED"], -9)
         self.assertEqual(demotion[3][0].tier, "epic")
 
-    def test_removal_subtracts_from_recorded_clan_not_current_one(self):
+    def test_removal_subtracts_from_current_roster_clan(self):
         state = lb.State(
-            points={"RED": 40},
+            points={"RED": 40, "GREEN": 0},
             levels={"1": lb.LevelRecord("mythic", "100", "Alice", "RED")},
         )
         points, levels, net, changes = lb.compute_update(
             {}, {}, {"alice": "GREEN"}, self.TAGS, state
         )
-        self.assertEqual(points, {"RED": 0})
-        self.assertEqual(net["RED"], -40)
+        self.assertEqual(points, {"RED": 40, "GREEN": -40})
+        self.assertEqual(net["GREEN"], -40)
         self.assertEqual(levels, {})
         self.assertEqual(changes[0].points, -40)
         self.assertEqual(changes[0].label, "mythic → unrated")
@@ -244,7 +249,7 @@ class TestComputeUpdate(unittest.TestCase):
         self.assertEqual(levels["1"].clan, "RED")
         self.assertEqual(changes, [])
 
-    def test_new_clan_takes_credit_for_existing_member(self):
+    def test_clan_switch_does_not_transfer_existing_points(self):
         state = lb.State(
             points={"RED": 10, "NEW": 0},
             levels={"1": lb.LevelRecord("epic", "100", "Alice", "RED")},
@@ -256,11 +261,11 @@ class TestComputeUpdate(unittest.TestCase):
             ["RED", "NEW"],
             state,
         )
-        self.assertEqual(points, {"RED": 0, "NEW": 10})
-        self.assertEqual(net, {"RED": -10, "NEW": 10})
+        self.assertEqual(points, {"RED": 10, "NEW": 0})
+        self.assertEqual(net, {"RED": 0, "NEW": 0})
         self.assertEqual(levels["1"].clan, "NEW")
 
-    def test_creator_change_transfers_credit_between_clans(self):
+    def test_creator_change_does_not_transfer_credit(self):
         state = lb.State(
             points={"RED": 10, "GREEN": 0},
             levels={"1": lb.LevelRecord("epic", "100", "Alice", "RED")},
@@ -272,10 +277,25 @@ class TestComputeUpdate(unittest.TestCase):
             self.TAGS,
             state,
         )
-        self.assertEqual(points, {"RED": 0, "GREEN": 10})
-        self.assertEqual(net, {"RED": -10, "GREEN": 10})
+        self.assertEqual(points, {"RED": 10, "GREEN": 0})
+        self.assertEqual(net, {"RED": 0, "GREEN": 0})
         self.assertEqual(levels["1"].uid, "200")
         self.assertEqual(levels["1"].clan, "GREEN")
+
+    def test_rerate_after_clan_switch_credits_current_clan_only(self):
+        state = lb.State(
+            points={"RED": 10, "GREEN": 0},
+            levels={"1": lb.LevelRecord("epic", "100", "Alice", "RED")},
+        )
+        points, _, net, _ = lb.compute_update(
+            {"1": lb.Level("1", "100", "mythic", "First")},
+            {"100": "Alice"},
+            {"alice": "GREEN"},
+            self.TAGS,
+            state,
+        )
+        self.assertEqual(points, {"RED": 10, "GREEN": 30})
+        self.assertEqual(net, {"RED": 0, "GREEN": 30})
 
     def test_unchanged_level_produces_no_change(self):
         record = lb.LevelRecord("epic", "100", "Alice", "RED")
