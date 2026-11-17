@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "points": {
     "RED": 46,
     "GREEN": 36,
@@ -11,2242 +12,2702 @@
     "409": {
       "tier": "mythic",
       "uid": "127",
-      "user": "Astro"
+      "user": "Astro:125",
+      "clan": null
     },
     "633": {
       "tier": "mythic",
       "uid": "209",
-      "user": "Flyx"
+      "user": "Flyx:206",
+      "clan": null
     },
     "1284": {
       "tier": "mythic",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "361": {
       "tier": "mythic",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1626": {
       "tier": "mythic",
       "uid": "892",
-      "user": "OmaxMorales"
+      "user": "OmaxMorales:883",
+      "clan": null
     },
     "169": {
       "tier": "mythic",
       "uid": "93",
-      "user": "Cato"
+      "user": "Cato:93",
+      "clan": null
     },
     "1049": {
       "tier": "mythic",
       "uid": "519",
-      "user": "elektrick"
+      "user": "elektrick:510",
+      "clan": null
     },
     "1453": {
       "tier": "mythic",
       "uid": "799",
-      "user": "bazzie"
+      "user": "bazzie:790",
+      "clan": null
     },
     "1674": {
       "tier": "mythic",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1086": {
       "tier": "mythic",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "241": {
       "tier": "legendary",
       "uid": "104",
-      "user": "Random"
+      "user": "Random:103",
+      "clan": null
     },
     "306": {
       "tier": "legendary",
       "uid": "79",
-      "user": "NutzyGamer"
+      "user": "NutzyGamer:79",
+      "clan": null
     },
     "102": {
       "tier": "legendary",
       "uid": "73",
-      "user": "EliamRA"
+      "user": "EliamRA:73",
+      "clan": null
     },
     "322": {
       "tier": "legendary",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1689": {
       "tier": "legendary",
       "uid": "872",
-      "user": "SilentUnknown"
+      "user": "SilentUnknown:863",
+      "clan": null
     },
     "173": {
       "tier": "legendary",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1807": {
       "tier": "legendary",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "323": {
       "tier": "legendary",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "1604": {
       "tier": "legendary",
       "uid": "123",
-      "user": "GarchompEX"
+      "user": "GarchompEX:122",
+      "clan": null
     },
     "579": {
       "tier": "legendary",
       "uid": "195",
-      "user": "ZellWowStar"
+      "user": "ZellWowStar:193",
+      "clan": null
     },
     "704": {
       "tier": "legendary",
       "uid": "81",
-      "user": "BloomTails"
+      "user": "BloomTails:81",
+      "clan": null
     },
     "1773": {
       "tier": "legendary",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "780": {
       "tier": "legendary",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "1052": {
       "tier": "legendary",
       "uid": "524",
-      "user": "Samstreem"
+      "user": "Samstreem:515",
+      "clan": null
     },
     "1843": {
       "tier": "legendary",
       "uid": "964",
-      "user": "Dragonix"
+      "user": "Dragonix:946",
+      "clan": null
     },
     "1627": {
       "tier": "legendary",
       "uid": "123",
-      "user": "GarchompEX"
+      "user": "GarchompEX:122",
+      "clan": null
     },
     "1663": {
       "tier": "legendary",
       "uid": "892",
-      "user": "OmaxMorales"
+      "user": "OmaxMorales:883",
+      "clan": null
     },
     "1429": {
       "tier": "legendary",
       "uid": "209",
-      "user": "Flyx"
+      "user": "Flyx:206",
+      "clan": null
     },
     "1696": {
       "tier": "legendary",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "332": {
       "tier": "legendary",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "342": {
       "tier": "legendary",
       "uid": "127",
-      "user": "Astro"
+      "user": "Astro:125",
+      "clan": null
     },
     "1691": {
       "tier": "legendary",
       "uid": "913",
-      "user": "LarpTailsXD"
+      "user": "LarpTailsXD:904",
+      "clan": null
     },
     "427": {
       "tier": "legendary",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1563": {
       "tier": "legendary",
       "uid": "93",
-      "user": "Cato"
+      "user": "Cato:93",
+      "clan": null
     },
     "274": {
       "tier": "epic",
       "uid": "112",
-      "user": "clover"
+      "user": "clover:111",
+      "clan": null
     },
     "316": {
       "tier": "epic",
       "uid": "123",
-      "user": "GarchompEX"
+      "user": "GarchompEX:122",
+      "clan": null
     },
     "1094": {
       "tier": "epic",
       "uid": "548",
-      "user": "Echo"
+      "user": "Echo:538",
+      "clan": null
     },
     "550": {
       "tier": "epic",
       "uid": "74",
-      "user": "wudja"
+      "user": "wudja:74",
+      "clan": null
     },
     "1460": {
       "tier": "epic",
       "uid": "804",
-      "user": "rex"
+      "user": "rex:795",
+      "clan": null
     },
     "405": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1059": {
       "tier": "epic",
       "uid": "526",
-      "user": "volo100"
+      "user": "volo100:517",
+      "clan": null
     },
     "1080": {
       "tier": "epic",
       "uid": "548",
-      "user": "Echo"
+      "user": "Echo:538",
+      "clan": null
     },
     "1628": {
       "tier": "epic",
       "uid": "248",
-      "user": "SUPERSTAR5555"
+      "user": "SUPERSTAR5555:244",
+      "clan": null
     },
     "1189": {
       "tier": "epic",
       "uid": "193",
-      "user": "skorka"
+      "user": "skorka:191",
+      "clan": null
     },
     "1285": {
       "tier": "epic",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1451": {
       "tier": "epic",
       "uid": "791",
-      "user": "greenteam"
+      "user": "GreenTeam:782",
+      "clan": null
     },
     "455": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "769": {
       "tier": "epic",
       "uid": "268",
-      "user": "Pimsik"
+      "user": "Pimsik:263",
+      "clan": null
     },
     "315": {
       "tier": "epic",
       "uid": "122",
-      "user": "hiints"
+      "user": "hiints:121",
+      "clan": null
     },
     "1624": {
       "tier": "epic",
       "uid": "891",
-      "user": "CINDER"
+      "user": "CINDER:882",
+      "clan": null
     },
     "1383": {
       "tier": "epic",
       "uid": "243",
-      "user": "PlasticMemories"
+      "user": "PlasticMemories:239",
+      "clan": null
     },
     "694": {
       "tier": "epic",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1727": {
       "tier": "epic",
       "uid": "791",
-      "user": "greenteam"
+      "user": "GreenTeam:782",
+      "clan": null
     },
     "207": {
       "tier": "epic",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "252": {
       "tier": "epic",
       "uid": "104",
-      "user": "Random"
+      "user": "Random:103",
+      "clan": null
     },
     "616": {
       "tier": "epic",
       "uid": "202",
-      "user": "Zeppy"
+      "user": "Zeppy:200",
+      "clan": null
     },
     "1399": {
       "tier": "epic",
       "uid": "171",
-      "user": "ChewyShapez"
+      "user": "ChewyShapez:169",
+      "clan": null
     },
     "234": {
       "tier": "epic",
       "uid": "73",
-      "user": "EliamRA"
+      "user": "EliamRA:73",
+      "clan": null
     },
     "1277": {
       "tier": "epic",
       "uid": "503",
-      "user": "bese"
+      "user": "bese:494",
+      "clan": null
     },
     "1619": {
       "tier": "epic",
       "uid": "885",
-      "user": "TheCrazyCob"
+      "user": "TheCrazyCob:876",
+      "clan": null
     },
     "1193": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1201": {
       "tier": "epic",
       "uid": "526",
-      "user": "volo100"
+      "user": "volo100:517",
+      "clan": null
     },
     "1021": {
       "tier": "epic",
       "uid": "175",
-      "user": "tix"
+      "user": "tix:173",
+      "clan": null
     },
     "1708": {
       "tier": "epic",
       "uid": "248",
-      "user": "SUPERSTAR5555"
+      "user": "SUPERSTAR5555:244",
+      "clan": null
     },
     "962": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "486": {
       "tier": "epic",
       "uid": "176",
-      "user": "zendli"
+      "user": "zendli:174",
+      "clan": null
     },
     "1795": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "264": {
       "tier": "epic",
       "uid": "99",
-      "user": "Zack"
+      "user": "Zack:99",
+      "clan": null
     },
     "1751": {
       "tier": "epic",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "1274": {
       "tier": "epic",
       "uid": "112",
-      "user": "clover"
+      "user": "clover:111",
+      "clan": null
     },
     "1565": {
       "tier": "epic",
       "uid": "112",
-      "user": "clover"
+      "user": "clover:111",
+      "clan": null
     },
     "1398": {
       "tier": "epic",
       "uid": "765",
-      "user": "User"
+      "user": "User:755",
+      "clan": null
     },
     "1692": {
       "tier": "epic",
       "uid": "117",
-      "user": "thevoidjake"
+      "user": "thevoidjake:116",
+      "clan": null
     },
     "424": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "779": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "528": {
       "tier": "epic",
       "uid": "127",
-      "user": "Astro"
+      "user": "Astro:125",
+      "clan": null
     },
     "1044": {
       "tier": "epic",
       "uid": "503",
-      "user": "bese"
+      "user": "bese:494",
+      "clan": null
     },
     "1606": {
       "tier": "epic",
       "uid": "123",
-      "user": "GarchompEX"
+      "user": "GarchompEX:122",
+      "clan": null
     },
     "1953": {
       "tier": "epic",
       "uid": "123",
-      "user": "GarchompEX"
+      "user": "GarchompEX:122",
+      "clan": null
     },
     "1442": {
       "tier": "epic",
       "uid": "758",
-      "user": "FPEEU"
+      "user": "FPEEU:748",
+      "clan": null
     },
     "1191": {
       "tier": "epic",
       "uid": "548",
-      "user": "Echo"
+      "user": "Echo:538",
+      "clan": null
     },
     "713": {
       "tier": "epic",
       "uid": "243",
-      "user": "PlasticMemories"
+      "user": "PlasticMemories:239",
+      "clan": null
     },
     "1740": {
       "tier": "epic",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "1742": {
       "tier": "epic",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "1556": {
       "tier": "epic",
       "uid": "853",
-      "user": "ATRI"
+      "user": "ATRI:844",
+      "clan": null
     },
     "1625": {
       "tier": "epic",
       "uid": "891",
-      "user": "CINDER"
+      "user": "CINDER:882",
+      "clan": null
     },
     "610": {
       "tier": "epic",
       "uid": "104",
-      "user": "Random"
+      "user": "Random:103",
+      "clan": null
     },
     "1902": {
       "tier": "epic",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "651": {
       "tier": "epic",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "1949": {
       "tier": "epic",
       "uid": "976",
-      "user": "ValderusUWU"
+      "user": "ValderusUWU:957",
+      "clan": null
     },
     "706": {
       "tier": "epic",
       "uid": "99",
-      "user": "Zack"
+      "user": "Zack:99",
+      "clan": null
     },
     "1741": {
       "tier": "epic",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "473": {
       "tier": "epic",
       "uid": "175",
-      "user": "tix"
+      "user": "tix:173",
+      "clan": null
     },
     "1527": {
       "tier": "epic",
       "uid": "840",
-      "user": "Miroor"
+      "user": "Miroor:831",
+      "clan": null
     },
     "1019": {
       "tier": "epic",
       "uid": "501",
-      "user": "Syne"
+      "user": "Syne:492",
+      "clan": null
     },
     "1537": {
       "tier": "epic",
       "uid": "112",
-      "user": "clover"
+      "user": "clover:111",
+      "clan": null
     },
     "347": {
       "tier": "epic",
       "uid": "127",
-      "user": "Astro"
+      "user": "Astro:125",
+      "clan": null
     },
     "1661": {
       "tier": "epic",
       "uid": "904",
-      "user": "TheweKT"
+      "user": "TheweKT:895",
+      "clan": null
     },
     "216": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "529": {
       "tier": "epic",
       "uid": "127",
-      "user": "Astro"
+      "user": "Astro:125",
+      "clan": null
     },
     "547": {
       "tier": "epic",
       "uid": "171",
-      "user": "ChewyShapez"
+      "user": "ChewyShapez:169",
+      "clan": null
     },
     "1890": {
       "tier": "epic",
       "uid": "964",
-      "user": "Dragonix"
+      "user": "Dragonix:946",
+      "clan": null
     },
     "213": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "576": {
       "tier": "epic",
       "uid": "190",
-      "user": "griffin"
+      "user": "griffin:188",
+      "clan": null
     },
     "214": {
       "tier": "epic",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "383": {
       "tier": "featured",
       "uid": "104",
-      "user": "Random"
+      "user": "Random:103",
+      "clan": null
     },
     "692": {
       "tier": "featured",
       "uid": "198",
-      "user": "Jolaf"
+      "user": "Jolaf:196",
+      "clan": null
     },
     "215": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1035": {
       "tier": "featured",
       "uid": "486",
-      "user": "KingMagma"
+      "user": "Magma:477",
+      "clan": null
     },
     "736": {
       "tier": "featured",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "634": {
       "tier": "featured",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "1318": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "677": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "302": {
       "tier": "featured",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "1564": {
       "tier": "featured",
       "uid": "112",
-      "user": "clover"
+      "user": "clover:111",
+      "clan": null
     },
     "1351": {
       "tier": "star",
       "uid": "736",
-      "user": "Ryan"
+      "user": "Ryan:725",
+      "clan": null
     },
     "1372": {
       "tier": "featured",
       "uid": "486",
-      "user": "KingMagma"
+      "user": "Magma:477",
+      "clan": null
     },
     "101": {
       "tier": "epic",
       "uid": "72",
-      "user": "Frigid"
+      "user": "Frigid:72",
+      "clan": null
     },
     "118": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1726": {
       "tier": "featured",
       "uid": "268",
-      "user": "Pimsik"
+      "user": "Pimsik:263",
+      "clan": null
     },
     "1517": {
       "tier": "featured",
       "uid": "701",
-      "user": "Ortyo"
+      "user": "Ortyo:691",
+      "clan": null
     },
     "1917": {
       "tier": "featured",
       "uid": "989",
-      "user": "asyntu"
+      "user": "asyntu:969",
+      "clan": null
     },
     "1699": {
       "tier": "featured",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1205": {
       "tier": "featured",
       "uid": "486",
-      "user": "KingMagma"
+      "user": "Magma:477",
+      "clan": null
     },
     "227": {
       "tier": "featured",
       "uid": "79",
-      "user": "NutzyGamer"
+      "user": "NutzyGamer:79",
+      "clan": null
     },
     "1251": {
       "tier": "featured",
       "uid": "701",
-      "user": "Ortyo"
+      "user": "Ortyo:691",
+      "clan": null
     },
     "516": {
       "tier": "featured",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "1815": {
       "tier": "featured",
       "uid": "830",
-      "user": "WudjAnotherone"
+      "user": "WudjAnotherone:821",
+      "clan": null
     },
     "310": {
       "tier": "featured",
       "uid": "82",
-      "user": "MudAnimates"
+      "user": "MudAnimates:82",
+      "clan": null
     },
     "567": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "107": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "229": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "761": {
       "tier": "featured",
       "uid": "198",
-      "user": "Jolaf"
+      "user": "Jolaf:196",
+      "clan": null
     },
     "260": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1801": {
       "tier": "featured",
       "uid": "176",
-      "user": "zendli"
+      "user": "zendli:174",
+      "clan": null
     },
     "551": {
       "tier": "featured",
       "uid": "176",
-      "user": "zendli"
+      "user": "zendli:174",
+      "clan": null
     },
     "1319": {
       "tier": "featured",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "556": {
       "tier": "featured",
       "uid": "176",
-      "user": "zendli"
+      "user": "zendli:174",
+      "clan": null
     },
     "1871": {
       "tier": "featured",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "631": {
       "tier": "featured",
       "uid": "206",
-      "user": "TeamYellow"
+      "user": "TeamYellow:203",
+      "clan": null
     },
     "155": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1232": {
       "tier": "featured",
       "uid": "486",
-      "user": "KingMagma"
+      "user": "Magma:477",
+      "clan": null
     },
     "1756": {
       "tier": "featured",
       "uid": "935",
-      "user": "SubZer0"
+      "user": "SubZer0:921",
+      "clan": null
     },
     "231": {
       "tier": "featured",
       "uid": "99",
-      "user": "Zack"
+      "user": "Zack:99",
+      "clan": null
     },
     "489": {
       "tier": "featured",
       "uid": "176",
-      "user": "zendli"
+      "user": "zendli:174",
+      "clan": null
     },
     "1260": {
       "tier": "featured",
       "uid": "701",
-      "user": "Ortyo"
+      "user": "Ortyo:691",
+      "clan": null
     },
     "1525": {
       "tier": "featured",
       "uid": "817",
-      "user": "Rolling9"
+      "user": "Rolling9:808",
+      "clan": null
     },
     "514": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "521": {
       "tier": "featured",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "1568": {
       "tier": "featured",
       "uid": "853",
-      "user": "ATRI"
+      "user": "ATRI:844",
+      "clan": null
     },
     "1320": {
       "tier": "featured",
       "uid": "486",
-      "user": "KingMagma"
+      "user": "Magma:477",
+      "clan": null
     },
     "1066": {
       "tier": "featured",
       "uid": "486",
-      "user": "KingMagma"
+      "user": "Magma:477",
+      "clan": null
     },
     "566": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1607": {
       "tier": "featured",
       "uid": "885",
-      "user": "TheCrazyCob"
+      "user": "TheCrazyCob:876",
+      "clan": null
     },
     "1615": {
       "tier": "featured",
       "uid": "799",
-      "user": "bazzie"
+      "user": "bazzie:790",
+      "clan": null
     },
     "1402": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "174": {
       "tier": "featured",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1258": {
       "tier": "featured",
       "uid": "713",
-      "user": "Kat"
+      "user": "Kat:703",
+      "clan": null
     },
     "1776": {
       "tier": "featured",
       "uid": "856",
-      "user": "Saphire2415"
+      "user": "Saphire2415:847",
+      "clan": null
     },
     "1290": {
       "tier": "featured",
       "uid": "735",
-      "user": "Carnate"
+      "user": "Carnate:724",
+      "clan": null
     },
     "1048": {
       "tier": "featured",
       "uid": "470",
-      "user": "RobTop"
+      "user": "RobTop:461",
+      "clan": null
     },
     "1560": {
       "tier": "featured",
       "uid": "117",
-      "user": "thevoidjake"
+      "user": "thevoidjake:116",
+      "clan": null
     },
     "1575": {
       "tier": "featured",
       "uid": "804",
-      "user": "rex"
+      "user": "rex:795",
+      "clan": null
     },
     "1065": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "575": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "578": {
       "tier": "featured",
       "uid": "193",
-      "user": "skorka"
+      "user": "skorka:191",
+      "clan": null
     },
     "325": {
       "tier": "featured",
       "uid": "117",
-      "user": "thevoidjake"
+      "user": "thevoidjake:116",
+      "clan": null
     },
     "1868": {
       "tier": "star",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "1620": {
       "tier": "featured",
       "uid": "799",
-      "user": "bazzie"
+      "user": "bazzie:790",
+      "clan": null
     },
     "618": {
       "tier": "featured",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "140": {
       "tier": "featured",
       "uid": "74",
-      "user": "wudja"
+      "user": "wudja:74",
+      "clan": null
     },
     "1684": {
       "tier": "featured",
       "uid": "503",
-      "user": "bese"
+      "user": "bese:494",
+      "clan": null
     },
     "1439": {
       "tier": "featured",
       "uid": "782",
-      "user": "HycTheGreat"
+      "user": "HycTheGreat:772",
+      "clan": null
     },
     "1698": {
       "tier": "featured",
       "uid": "222",
-      "user": "JuanCruzzz"
+      "user": "JuanCruzzz:219",
+      "clan": null
     },
     "686": {
       "tier": "featured",
       "uid": "157",
-      "user": "Nurasaill"
+      "user": "Nurasaill:155",
+      "clan": null
     },
     "1732": {
       "tier": "featured",
       "uid": "701",
-      "user": "Ortyo"
+      "user": "Ortyo:691",
+      "clan": null
     },
     "465": {
       "tier": "featured",
       "uid": "73",
-      "user": "EliamRA"
+      "user": "EliamRA:73",
+      "clan": null
     },
     "755": {
       "tier": "featured",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "1545": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "284": {
       "tier": "featured",
       "uid": "113",
-      "user": "NoveltyTeam"
+      "user": "NoveltyTeam:112",
+      "clan": null
     },
     "300": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1857": {
       "tier": "featured",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1858": {
       "tier": "featured",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1863": {
       "tier": "featured",
       "uid": "970",
-      "user": "NeoNX50"
+      "user": "NeoNX50:952",
+      "clan": null
     },
     "614": {
       "tier": "featured",
       "uid": "196",
-      "user": "geometrydash"
+      "user": "geometrydash:194",
+      "clan": null
     },
     "1905": {
       "tier": "featured",
       "uid": "975",
-      "user": "whoami"
+      "user": "whoami:956",
+      "clan": null
     },
     "643": {
       "tier": "featured",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "1695": {
       "tier": "featured",
       "uid": "782",
-      "user": "HycTheGreat"
+      "user": "HycTheGreat:772",
+      "clan": null
     },
     "421": {
       "tier": "featured",
       "uid": "73",
-      "user": "EliamRA"
+      "user": "EliamRA:73",
+      "clan": null
     },
     "689": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1739": {
       "tier": "featured",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "738": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1821": {
       "tier": "featured",
       "uid": "268",
-      "user": "Pimsik"
+      "user": "Pimsik:263",
+      "clan": null
     },
     "555": {
       "tier": "featured",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1597": {
       "tier": "featured",
       "uid": "122",
-      "user": "hiints"
+      "user": "hiints:121",
+      "clan": null
     },
     "337": {
       "tier": "featured",
       "uid": "80",
-      "user": "Igneous"
+      "user": "Igneous:80",
+      "clan": null
     },
     "606": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "619": {
       "tier": "featured",
       "uid": "200",
-      "user": "Creatorplus"
+      "user": "Creatorplus:198",
+      "clan": null
     },
     "647": {
       "tier": "featured",
       "uid": "210",
-      "user": "AtomiX"
+      "user": "AtomiX:207",
+      "clan": null
     },
     "650": {
       "tier": "featured",
       "uid": "117",
-      "user": "thevoidjake"
+      "user": "thevoidjake:116",
+      "clan": null
     },
     "1679": {
       "tier": "featured",
       "uid": "176",
-      "user": "zendli"
+      "user": "zendli:174",
+      "clan": null
     },
     "676": {
       "tier": "featured",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "454": {
       "tier": "featured",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "475": {
       "tier": "featured",
       "uid": "112",
-      "user": "clover"
+      "user": "clover:111",
+      "clan": null
     },
     "997": {
       "tier": "featured",
       "uid": "475",
-      "user": "ThSeek"
+      "user": "ThSeek:466",
+      "clan": null
     },
     "1778": {
       "tier": "featured",
       "uid": "856",
-      "user": "Saphire2415"
+      "user": "Saphire2415:847",
+      "clan": null
     },
     "767": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "258": {
       "tier": "featured",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1550": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "557": {
       "tier": "featured",
       "uid": "113",
-      "user": "NoveltyTeam"
+      "user": "NoveltyTeam:112",
+      "clan": null
     },
     "1581": {
       "tier": "featured",
       "uid": "817",
-      "user": "Rolling9"
+      "user": "Rolling9:808",
+      "clan": null
     },
     "1866": {
       "tier": "featured",
       "uid": "856",
-      "user": "Saphire2415"
+      "user": "Saphire2415:847",
+      "clan": null
     },
     "1876": {
       "tier": "featured",
       "uid": "964",
-      "user": "Dragonix"
+      "user": "Dragonix:946",
+      "clan": null
     },
     "1384": {
       "tier": "featured",
       "uid": "179",
-      "user": "Bao143"
+      "user": "Bao143:177",
+      "clan": null
     },
     "658": {
       "tier": "featured",
       "uid": "214",
-      "user": "thedarkcloakcat"
+      "user": "thedarkcloakcat:211",
+      "clan": null
     },
     "664": {
       "tier": "featured",
       "uid": "117",
-      "user": "thevoidjake"
+      "user": "thevoidjake:116",
+      "clan": null
     },
     "1945": {
       "tier": "featured",
       "uid": "486",
-      "user": "KingMagma"
+      "user": "Magma:477",
+      "clan": null
     },
     "937": {
       "tier": "featured",
       "uid": "230",
-      "user": "kenzieshane"
+      "user": "kenzieshane:226",
+      "clan": null
     },
     "1705": {
       "tier": "featured",
       "uid": "122",
-      "user": "hiints"
+      "user": "hiints:121",
+      "clan": null
     },
     "735": {
       "tier": "featured",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "752": {
       "tier": "featured",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "1538": {
       "tier": "featured",
       "uid": "848",
-      "user": "clwvm"
+      "user": "clwvm:839",
+      "clan": null
     },
     "638": {
       "tier": "featured",
       "uid": "189",
-      "user": "reupload2"
+      "user": "reupload2:187",
+      "clan": null
     },
     "391": {
       "tier": "featured",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "1694": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "164": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1765": {
       "tier": "featured",
       "uid": "830",
-      "user": "WudjAnotherone"
+      "user": "WudjAnotherone:821",
+      "clan": null
     },
     "1508": {
       "tier": "featured",
       "uid": "765",
-      "user": "User"
+      "user": "User:755",
+      "clan": null
     },
     "254": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "559": {
       "tier": "featured",
       "uid": "157",
-      "user": "Nurasaill"
+      "user": "Nurasaill:155",
+      "clan": null
     },
     "644": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "625": {
       "tier": "featured",
       "uid": "113",
-      "user": "NoveltyTeam"
+      "user": "NoveltyTeam:112",
+      "clan": null
     },
     "138": {
       "tier": "star",
       "uid": "74",
-      "user": "wudja"
+      "user": "wudja:74",
+      "clan": null
     },
     "105": {
       "tier": "star",
       "uid": "74",
-      "user": "wudja"
+      "user": "wudja:74",
+      "clan": null
     },
     "330": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "756": {
       "tier": "star",
       "uid": "202",
-      "user": "Zeppy"
+      "user": "Zeppy:200",
+      "clan": null
     },
     "279": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "228": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "759": {
       "tier": "star",
       "uid": "157",
-      "user": "Nurasaill"
+      "user": "Nurasaill:155",
+      "clan": null
     },
     "731": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "744": {
       "tier": "star",
       "uid": "259",
-      "user": "mark06"
+      "user": "mark06:255",
+      "clan": null
     },
     "775": {
       "tier": "featured",
       "uid": "268",
-      "user": "Pimsik"
+      "user": "Pimsik:263",
+      "clan": null
     },
     "230": {
       "tier": "star",
       "uid": "101",
-      "user": "BrySky"
+      "user": "BrySky:101",
+      "clan": null
     },
     "158": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "104": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1510": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1400": {
       "tier": "star",
       "uid": "701",
-      "user": "Ortyo"
+      "user": "Ortyo:691",
+      "clan": null
     },
     "1350": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "348": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "157": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "134": {
       "tier": "star",
       "uid": "80",
-      "user": "Igneous"
+      "user": "Igneous:80",
+      "clan": null
     },
     "1480": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1386": {
       "tier": "star",
       "uid": "770",
-      "user": "sixenn"
+      "user": "sixenn:760",
+      "clan": null
     },
     "1313": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "730": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "712": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "205": {
       "tier": "star",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "108": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1456": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1261": {
       "tier": "star",
       "uid": "198",
-      "user": "Jolaf"
+      "user": "Jolaf:196",
+      "clan": null
     },
     "1226": {
       "tier": "star",
       "uid": "548",
-      "user": "Echo"
+      "user": "Echo:538",
+      "clan": null
     },
     "746": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "679": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "1079": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1622": {
       "tier": "star",
       "uid": "886",
-      "user": "Alexich"
+      "user": "Alexich:877",
+      "clan": null
     },
     "1367": {
       "tier": "star",
       "uid": "761",
-      "user": "bastidea2"
+      "user": "bastidea2:751",
+      "clan": null
     },
     "615": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "1768": {
       "tier": "star",
       "uid": "830",
-      "user": "WudjAnotherone"
+      "user": "WudjAnotherone:821",
+      "clan": null
     },
     "243": {
       "tier": "star",
       "uid": "104",
-      "user": "Random"
+      "user": "Random:103",
+      "clan": null
     },
     "1016": {
       "tier": "star",
       "uid": "470",
-      "user": "RobTop"
+      "user": "RobTop:461",
+      "clan": null
     },
     "770": {
       "tier": "star",
       "uid": "252",
-      "user": "Sourcat"
+      "user": "Sourcat:248",
+      "clan": null
     },
     "525": {
       "tier": "star",
       "uid": "178",
-      "user": "UltraDash"
+      "user": "UltraDash:176",
+      "clan": null
     },
     "308": {
       "tier": "star",
       "uid": "108",
-      "user": "YZdashity"
+      "user": "YZdashity:107",
+      "clan": null
     },
     "1092": {
       "tier": "star",
       "uid": "548",
-      "user": "Echo"
+      "user": "Echo:538",
+      "clan": null
     },
     "1862": {
       "tier": "star",
       "uid": "701",
-      "user": "Ortyo"
+      "user": "Ortyo:691",
+      "clan": null
     },
     "1358": {
       "tier": "star",
       "uid": "713",
-      "user": "Kat"
+      "user": "Kat:703",
+      "clan": null
     },
     "1874": {
       "tier": "star",
       "uid": "974",
-      "user": "rasd"
+      "user": "rasd:955",
+      "clan": null
     },
     "109": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "629": {
       "tier": "star",
       "uid": "206",
-      "user": "TeamYellow"
+      "user": "TeamYellow:203",
+      "clan": null
     },
     "1653": {
       "tier": "star",
       "uid": "758",
-      "user": "FPEEU"
+      "user": "FPEEU:748",
+      "clan": null
     },
     "1401": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "1222": {
       "tier": "star",
       "uid": "533",
-      "user": "Karim"
+      "user": "Karim:524",
+      "clan": null
     },
     "223": {
       "tier": "star",
       "uid": "101",
-      "user": "BrySky"
+      "user": "BrySky:101",
+      "clan": null
     },
     "1774": {
       "tier": "star",
       "uid": "233",
-      "user": "paperpenguins"
+      "user": "paperpenguins:229",
+      "clan": null
     },
     "763": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "286": {
       "tier": "star",
       "uid": "113",
-      "user": "NoveltyTeam"
+      "user": "NoveltyTeam:112",
+      "clan": null
     },
     "1632": {
       "tier": "star",
       "uid": "112",
-      "user": "clover"
+      "user": "clover:111",
+      "clan": null
     },
     "113": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "669": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "1190": {
       "tier": "star",
       "uid": "503",
-      "user": "bese"
+      "user": "bese:494",
+      "clan": null
     },
     "1449": {
       "tier": "star",
       "uid": "503",
-      "user": "bese"
+      "user": "bese:494",
+      "clan": null
     },
     "1747": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1243": {
       "tier": "star",
       "uid": "143",
-      "user": "DragonGMD"
+      "user": "Dragon:141",
+      "clan": null
     },
     "768": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "267": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1812": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "1323": {
       "tier": "star",
       "uid": "476",
-      "user": "tjxgodd"
+      "user": "tjxgodd:467",
+      "clan": null
     },
     "318": {
       "tier": "star",
       "uid": "101",
-      "user": "BrySky"
+      "user": "BrySky:101",
+      "clan": null
     },
     "1856": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1869": {
       "tier": "star",
       "uid": "856",
-      "user": "Saphire2415"
+      "user": "Saphire2415:847",
+      "clan": null
     },
     "598": {
       "tier": "star",
       "uid": "198",
-      "user": "Jolaf"
+      "user": "Jolaf:196",
+      "clan": null
     },
     "1419": {
       "tier": "star",
       "uid": "265",
-      "user": "Zeny"
+      "user": "Zeny:732",
+      "clan": null
     },
     "1420": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1426": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "681": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "1454": {
       "tier": "star",
       "uid": "758",
-      "user": "FPEEU"
+      "user": "FPEEU:748",
+      "clan": null
     },
     "1729": {
       "tier": "star",
       "uid": "268",
-      "user": "Pimsik"
+      "user": "Pimsik:263",
+      "clan": null
     },
     "745": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "239": {
       "tier": "star",
       "uid": "101",
-      "user": "BrySky"
+      "user": "BrySky:101",
+      "clan": null
     },
     "501": {
       "tier": "star",
       "uid": "178",
-      "user": "UltraDash"
+      "user": "UltraDash:176",
+      "clan": null
     },
     "249": {
       "tier": "star",
       "uid": "101",
-      "user": "BrySky"
+      "user": "BrySky:101",
+      "clan": null
     },
     "1796": {
       "tier": "star",
       "uid": "198",
-      "user": "Jolaf"
+      "user": "Jolaf:196",
+      "clan": null
     },
     "1829": {
       "tier": "star",
       "uid": "957",
-      "user": "Krishere"
+      "user": "Krishere:939",
+      "clan": null
     },
     "1845": {
       "tier": "star",
       "uid": "117",
-      "user": "thevoidjake"
+      "user": "thevoidjake:116",
+      "clan": null
     },
     "1861": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1621": {
       "tier": "star",
       "uid": "193",
-      "user": "skorka"
+      "user": "skorka:191",
+      "clan": null
     },
     "353": {
       "tier": "star",
       "uid": "136",
-      "user": "Water"
+      "user": "Water:134",
+      "clan": null
     },
     "360": {
       "tier": "star",
       "uid": "140",
-      "user": "zyreth"
+      "user": "zyreth:138",
+      "clan": null
     },
     "621": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "1654": {
       "tier": "star",
       "uid": "867",
-      "user": "galactice"
+      "user": "galactice:858",
+      "clan": null
     },
     "1920": {
       "tier": "star",
       "uid": "268",
-      "user": "Pimsik"
+      "user": "Pimsik:263",
+      "clan": null
     },
     "653": {
       "tier": "star",
       "uid": "202",
-      "user": "Zeppy"
+      "user": "Zeppy:200",
+      "clan": null
     },
     "156": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "435": {
       "tier": "star",
       "uid": "72",
-      "user": "Frigid"
+      "user": "Frigid:72",
+      "clan": null
     },
     "699": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1487": {
       "tier": "star",
       "uid": "817",
-      "user": "Rolling9"
+      "user": "Rolling9:808",
+      "clan": null
     },
     "1743": {
       "tier": "star",
       "uid": "222",
-      "user": "JuanCruzzz"
+      "user": "JuanCruzzz:219",
+      "clan": null
     },
     "725": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "992": {
       "tier": "star",
       "uid": "473",
-      "user": "Rtpgw"
+      "user": "Rtpgw:464",
+      "clan": null
     },
     "750": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "765": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "262": {
       "tier": "star",
       "uid": "101",
-      "user": "BrySky"
+      "user": "BrySky:101",
+      "clan": null
     },
     "273": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1578": {
       "tier": "star",
       "uid": "867",
-      "user": "galactice"
+      "user": "galactice:858",
+      "clan": null
     },
     "1073": {
       "tier": "star",
       "uid": "503",
-      "user": "bese"
+      "user": "bese:494",
+      "clan": null
     },
     "1842": {
       "tier": "star",
       "uid": "964",
-      "user": "Dragonix"
+      "user": "Dragonix:946",
+      "clan": null
     },
     "1844": {
       "tier": "star",
       "uid": "964",
-      "user": "Dragonix"
+      "user": "Dragonix:946",
+      "clan": null
     },
     "1077": {
       "tier": "star",
       "uid": "210",
-      "user": "AtomiX"
+      "user": "AtomiX:207",
+      "clan": null
     },
     "1600": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1860": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "334": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1875": {
       "tier": "star",
       "uid": "964",
-      "user": "Dragonix"
+      "user": "Dragonix:946",
+      "clan": null
     },
     "1879": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1884": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "122": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "1919": {
       "tier": "star",
       "uid": "989",
-      "user": "asyntu"
+      "user": "asyntu:969",
+      "clan": null
     },
     "1927": {
       "tier": "star",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "655": {
       "tier": "star",
       "uid": "197",
-      "user": "mamory"
+      "user": "mamory:195",
+      "clan": null
     },
     "1436": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "165": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "714": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "1231": {
       "tier": "star",
       "uid": "678",
-      "user": "Universal"
+      "user": "Universal:668",
+      "clan": null
     },
     "1583": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "574": {
       "tier": "star",
       "uid": "193",
-      "user": "skorka"
+      "user": "skorka:191",
+      "clan": null
     },
     "1867": {
       "tier": "star",
       "uid": "951",
-      "user": "playergdps"
+      "user": "playergdps:936",
+      "clan": null
     },
     "1877": {
       "tier": "star",
       "uid": "976",
-      "user": "ValderusUWU"
+      "user": "ValderusUWU:957",
+      "clan": null
     },
     "1423": {
       "tier": "star",
       "uid": "492",
-      "user": "PurpleGDPS"
+      "user": "PurpleGDPS:483",
+      "clan": null
     },
     "657": {
       "tier": "star",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "1943": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "420": {
       "tier": "star",
       "uid": "157",
-      "user": "Nurasaill"
+      "user": "Nurasaill:155",
+      "clan": null
     },
     "1446": {
       "tier": "star",
       "uid": "758",
-      "user": "FPEEU"
+      "user": "FPEEU:748",
+      "clan": null
     },
     "429": {
       "tier": "star",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "734": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "740": {
       "tier": "star",
       "uid": "176",
-      "user": "zendli"
+      "user": "zendli:174",
+      "clan": null
     },
     "1786": {
       "tier": "star",
       "uid": "744",
-      "user": "BeepablesALT"
+      "user": "BeepablesALT:734",
+      "clan": null
     },
     "1813": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "1846": {
       "tier": "star",
       "uid": "964",
-      "user": "Dragonix"
+      "user": "Dragonix:946",
+      "clan": null
     },
     "1851": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "572": {
       "tier": "star",
       "uid": "113",
-      "user": "NoveltyTeam"
+      "user": "NoveltyTeam:112",
+      "clan": null
     },
     "1859": {
       "tier": "star",
       "uid": "867",
-      "user": "galactice"
+      "user": "galactice:858",
+      "clan": null
     },
     "394": {
       "tier": "star",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "400": {
       "tier": "star",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "1946": {
       "tier": "star",
       "uid": "997",
-      "user": "progamerofgd"
+      "user": "progamerofgd:977",
+      "clan": null
     },
     "766": {
       "tier": "star",
       "uid": "157",
-      "user": "Nurasaill"
+      "user": "Nurasaill:155",
+      "clan": null
     },
     "270": {
       "tier": "star",
       "uid": "111",
-      "user": "gdbigqb"
+      "user": "gdbigqb:110",
+      "clan": null
     },
     "1811": {
       "tier": "star",
       "uid": "940",
-      "user": "DeluxeGMD"
+      "user": "DeluxeGMD:926",
+      "clan": null
     },
     "1825": {
       "tier": "star",
       "uid": "532",
-      "user": "Blugeodudeguy"
+      "user": "Blugeodudeguy:523",
+      "clan": null
     },
     "1936": {
       "tier": "star",
       "uid": "1002",
-      "user": "MrRandom1298"
+      "user": "MrRandom1298:982",
+      "clan": null
     },
     "1948": {
       "tier": "star",
       "uid": "1005",
-      "user": "LawnMower"
+      "user": "LawnMower:985",
+      "clan": null
     },
     "1489": {
       "tier": "star",
       "uid": "177",
-      "user": "sigma"
+      "user": "sigma:175",
+      "clan": null
     },
     "434": {
       "tier": "star",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "737": {
       "tier": "star",
       "uid": "218",
-      "user": "Bboppa"
+      "user": "Bboppa:215",
+      "clan": null
     },
     "526": {
       "tier": "star",
       "uid": "175",
-      "user": "tix"
+      "user": "tix:173",
+      "clan": null
     },
     "522": {
       "tier": "star",
       "uid": "117",
-      "user": "thevoidjake"
+      "user": "thevoidjake:116",
+      "clan": null
     },
     "408": {
       "tier": "star",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "1957": {
       "tier": "epic",
       "uid": "540",
-      "user": "IcePhoenix284"
+      "user": "IcePhoenix284:531",
+      "clan": null
     },
     "2024": {
       "tier": "epic",
       "uid": "248",
-      "user": "SUPERSTAR5555"
+      "user": "SUPERSTAR5555:244",
+      "clan": null
     },
     "2026": {
       "tier": "featured",
       "uid": "72",
-      "user": "Frigid"
+      "user": "Frigid:72",
+      "clan": null
     },
     "275": {
       "tier": "star",
       "uid": "77",
-      "user": "Hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "2029": {
       "tier": "featured",
       "uid": "1010",
-      "user": "Cyri"
+      "user": "Cyri:990",
+      "clan": null
     },
     "1507": {
       "tier": "star",
       "uid": "723",
-      "user": "Shiroi"
+      "user": "Shiroi:713",
+      "clan": null
     },
     "2039": {
       "tier": "star",
       "uid": "1046",
-      "user": "ToteroGDPS"
+      "user": "ToteroGDPS:1022",
+      "clan": null
     },
     "2040": {
       "tier": "legendary",
       "uid": "1047",
-      "user": "pixeldash5"
+      "user": "pixeldash5:1023",
+      "clan": null
     },
     "2045": {
       "tier": "star",
       "uid": "988",
-      "user": "Orion"
+      "user": "Orion:968",
+      "clan": null
     },
     "2048": {
       "tier": "legendary",
       "uid": "931",
-      "user": "BenjamlnNetanyahu"
+      "user": "Nooo:918",
+      "clan": null
     },
     "2047": {
       "tier": "epic",
       "uid": "1047",
-      "user": "pixeldash5"
+      "user": "pixeldash5:1023",
+      "clan": null
     },
     "2051": {
       "tier": "epic",
       "uid": "72",
-      "user": "Frigid"
+      "user": "Frigid:72",
+      "clan": null
     },
     "2044": {
       "tier": "star",
       "uid": "1047",
-      "user": "pixeldash5"
+      "user": "pixeldash5:1023",
+      "clan": null
     },
     "2053": {
       "tier": "star",
       "uid": "1047",
-      "user": "pixeldash5"
+      "user": "pixeldash5:1023",
+      "clan": null
     },
     "1299": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "1614": {
       "tier": "star",
       "uid": "886",
-      "user": "Alexich"
+      "user": "Alexich:877",
+      "clan": null
     },
     "2055": {
       "tier": "star",
       "uid": "1047",
-      "user": "pixeldash5"
+      "user": "pixeldash5:1023",
+      "clan": null
     },
     "2052": {
       "tier": "featured",
       "uid": "82",
-      "user": "MudAnimates"
+      "user": "MudAnimates:82",
+      "clan": null
     },
     "2057": {
       "tier": "legendary",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "2060": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "2056": {
       "tier": "featured",
       "uid": "1002",
-      "user": "mrrandom1298"
+      "user": "MrRandom1298:982",
+      "clan": null
     },
     "2061": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "2065": {
       "tier": "star",
       "uid": "1060",
-      "user": "YakuNeko"
+      "user": "YakuNeko:1036",
+      "clan": null
     },
     "2066": {
       "tier": "star",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "2067": {
       "tier": "star",
       "uid": "1060",
-      "user": "YakuNeko"
+      "user": "YakuNeko:1036",
+      "clan": null
     },
     "2068": {
       "tier": "star",
       "uid": "1047",
-      "user": "pixeldash5"
+      "user": "pixeldash5:1023",
+      "clan": null
     },
     "2070": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "2075": {
       "tier": "featured",
       "uid": "268",
-      "user": "pimsik"
+      "user": "Pimsik:263",
+      "clan": null
     },
     "2074": {
       "tier": "star",
       "uid": "1043",
-      "user": "kirbyfan123"
+      "user": "kirbyfan123:1019",
+      "clan": null
     },
     "2077": {
       "tier": "epic",
       "uid": "175",
-      "user": "tix"
+      "user": "tix:173",
+      "clan": null
     },
     "2079": {
       "tier": "star",
       "uid": "976",
-      "user": "ValderusUWU"
+      "user": "ValderusUWU:957",
+      "clan": null
     },
     "583": {
       "tier": "epic",
       "uid": "81",
-      "user": "BloomTails"
+      "user": "BloomTails:81",
+      "clan": null
     },
     "2082": {
       "tier": "featured",
       "uid": "1067",
-      "user": "ispy"
+      "user": "ispy:1043",
+      "clan": null
     },
     "2083": {
       "tier": "epic",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "2086": {
       "tier": "featured",
       "uid": "98",
-      "user": "ghoulmp4"
+      "user": "truRoz:98",
+      "clan": null
     },
     "622": {
       "tier": "featured",
       "uid": "81",
-      "user": "BloomTails"
+      "user": "BloomTails:81",
+      "clan": null
     },
     "2092": {
       "tier": "star",
       "uid": "1010",
-      "user": "Cyri"
+      "user": "Cyri:990",
+      "clan": null
     },
     "2094": {
       "tier": "featured",
       "uid": "1068",
-      "user": "HaturzCarrier"
+      "user": "HaturzCarrier:1044",
+      "clan": null
     },
     "2104": {
       "tier": "featured",
       "uid": "856",
-      "user": "Saphire2415"
+      "user": "Saphire2415:847",
+      "clan": null
     },
     "2109": {
       "tier": "featured",
       "uid": "958",
-      "user": "VampierKnife"
+      "user": "VampierKnife:940",
+      "clan": null
     },
     "2110": {
       "tier": "epic",
       "uid": "1087",
-      "user": "Fresita"
+      "user": "Fresita:1063",
+      "clan": null
     },
     "2117": {
       "tier": "epic",
       "uid": "931",
-      "user": "Nooo"
+      "user": "Nooo:918",
+      "clan": null
     },
     "1916": {
       "tier": "featured",
       "uid": "81",
-      "user": "BloomTails"
+      "user": "BloomTails:81",
+      "clan": null
     },
     "2120": {
       "tier": "epic",
       "uid": "72",
-      "user": "Frigid"
+      "user": "Frigid:72",
+      "clan": null
     },
     "2121": {
       "tier": "epic",
       "uid": "958",
-      "user": "VampierKnife"
+      "user": "VampierKnife:940",
+      "clan": null
     },
     "1826": {
       "tier": "star",
       "uid": "744",
-      "user": "BeepablesALT"
+      "user": "BeepablesALT:734",
+      "clan": null
     },
     "2118": {
       "tier": "star",
       "uid": "1089",
-      "user": "Square"
+      "user": "Square:1065",
+      "clan": null
     },
     "2127": {
       "tier": "star",
       "uid": "209",
-      "user": "Flyx"
+      "user": "Flyx:206",
+      "clan": null
     },
     "2141": {
       "tier": "mythic",
       "uid": "94",
-      "user": "masterfes"
+      "user": "masterfes:94",
+      "clan": null
     },
     "2139": {
       "tier": "epic",
       "uid": "1092",
-      "user": "Account"
+      "user": "account:1068",
+      "clan": null
     },
     "2125": {
       "tier": "star",
       "uid": "1089",
-      "user": "Square"
+      "user": "Square:1065",
+      "clan": null
     },
     "2152": {
       "tier": "legendary",
       "uid": "175",
-      "user": "tix"
+      "user": "tix:173",
+      "clan": null
     },
     "2150": {
       "tier": "featured",
       "uid": "1010",
-      "user": "Cyri"
-    },
-    "2147": {
-      "tier": "legendary",
-      "uid": "1087",
-      "user": "Fresita"
+      "user": "Cyri:990",
+      "clan": null
     },
     "2155": {
       "tier": "epic",
       "uid": "116",
-      "user": "kanameij"
+      "user": "kanameij:115",
+      "clan": null
     },
     "1305": {
       "tier": "star",
       "uid": "736",
-      "user": "Ryan"
+      "user": "Ryan:725",
+      "clan": null
     },
     "2157": {
       "tier": "featured",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "2171": {
       "tier": "epic",
       "uid": "195",
-      "user": "ZellWowStar"
+      "user": "ZellWowStar:193",
+      "clan": null
     },
     "2000": {
       "tier": "featured",
       "uid": "189",
-      "user": "reupload2"
+      "user": "reupload2:187",
+      "clan": null
     },
     "384": {
       "tier": "star",
       "uid": "117",
-      "user": "thevoidjake"
+      "user": "thevoidjake:116",
+      "clan": null
     },
     "142": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "133": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
     },
     "111": {
       "tier": "star",
       "uid": "77",
-      "user": "hidjacked"
+      "user": "hidjacked:77",
+      "clan": null
+    },
+    "2176": {
+      "tier": "featured",
+      "uid": "1010",
+      "user": "Cyri:990",
+      "clan": null
+    },
+    "2160": {
+      "tier": "star",
+      "uid": "841",
+      "user": "DeMooniC:832",
+      "clan": null
+    },
+    "2129": {
+      "tier": "star",
+      "uid": "1089",
+      "user": "Square:1065",
+      "clan": null
     }
   }
 }
