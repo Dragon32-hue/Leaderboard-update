@@ -296,8 +296,8 @@ def parse_levels(resp: str) -> tuple[list[dict[str, str]], dict[str, str]]:
 
     users: dict[str, str] = {}
     for entry in user_part.split("|"):
-        fields = entry.split(":", 1)
-        if len(fields) == 2:
+        fields = entry.split(":")
+        if len(fields) >= 2:
             users[fields[0]] = fields[1]
 
     levels: list[dict[str, str]] = []
