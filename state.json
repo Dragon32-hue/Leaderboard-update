@@ -1,7 +1,7 @@
 {
   "version": 2,
   "points": {
-    "RED": 46,
+    "RED": 6,
     "GREEN": 39,
     "BLUE": 50,
     "YELLO": 33,
@@ -2708,12 +2708,6 @@
       "uid": "1089",
       "user": "Square",
       "clan": null
-    },
-    "2177": {
-      "tier": "mythic",
-      "uid": "143",
-      "user": "Dragon",
-      "clan": "RED"
     }
   }
 }
