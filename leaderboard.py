@@ -120,6 +120,7 @@ class LevelRecord:
     uid: str
     user: str
     clan: str | None = None
+    credit: int = 0
 
 
 @dataclass(frozen=True)
@@ -153,6 +154,7 @@ class State:
                     "uid": record.uid,
                     "user": record.user,
                     "clan": record.clan,
+                    "credit": record.credit,
                 }
                 for lid, record in self.levels.items()
             },
@@ -192,11 +194,18 @@ class State:
                 LOG.warning("Ignoring level %r with unknown tier %r", lid, tier)
                 continue
             clan_value = item.get("clan")
+            clan = str(clan_value) if clan_value else None
+            credit_value = item.get("credit")
+            try:
+                credit = int(credit_value)
+            except (TypeError, ValueError):
+                credit = TIER_POINTS[tier] if clan else 0
             levels[str(lid)] = LevelRecord(
                 tier=tier,
                 uid=str(item.get("uid", "?")),
                 user=str(item.get("user", "")),
-                clan=str(clan_value) if clan_value else None,
+                clan=clan,
+                credit=credit,
             )
 
         pending: PendingPost | None = None
@@ -498,8 +507,6 @@ def compute_update(
         clan = user_clans.get(user.casefold()) or None
 
         if old is not None and old.tier == level.tier and old.uid == level.uid:
-            if old.user != user or old.clan != clan:
-                levels[level_id] = LevelRecord(old.tier, old.uid, user, clan)
             continue
 
         diff = TIER_POINTS[level.tier] - TIER_POINTS.get(old_tier, 0)
@@ -507,9 +514,10 @@ def compute_update(
         if old is not None and old.uid != level.uid and old_tier == level.tier:
             diff = 0
 
-        if clan and diff:
-            points[clan] = points.get(clan, 0) + diff
-            net[clan] = net.get(clan, 0) + diff
+        credited = diff if clan else 0
+        if credited:
+            points[clan] = points.get(clan, 0) + credited
+            net[clan] = net.get(clan, 0) + credited
 
         if diff:
             label = f"rated {level.tier}" if old_tier is None else f"{old_tier} → {level.tier}"
@@ -527,18 +535,24 @@ def compute_update(
                     points=diff,
                 )
             )
+
+        if old is None:
+            credit = credited
+        elif old.clan == clan:
+            credit = old.credit + credited
+        else:
+            credit = credited
         levels[level_id] = LevelRecord(
-            tier=level.tier, uid=level.uid, user=user, clan=clan
+            tier=level.tier, uid=level.uid, user=user, clan=clan, credit=credit
         )
 
     for level_id, record in list(levels.items()):
         if level_id in tiers:
             continue
-        removed_points = TIER_POINTS.get(record.tier, 0)
-        clan = user_clans.get(record.user.casefold()) or record.clan
-        if removed_points and clan:
-            points[clan] = points.get(clan, 0) - removed_points
-            net[clan] = net.get(clan, 0) - removed_points
+        removed_points = record.credit
+        if removed_points and record.clan:
+            points[record.clan] = points.get(record.clan, 0) - removed_points
+            net[record.clan] = net.get(record.clan, 0) - removed_points
             changes.append(
                 RatingChange(
                     name="(unrated level)",
@@ -696,11 +710,13 @@ def reset_baseline(http: HttpClient, path: Path, max_pages: int, page_delay: flo
     levels: dict[str, LevelRecord] = {}
     for level_id, level in tiers.items():
         user = clean_username(users.get(level.uid, "?"))
+        clan = user_clans.get(user.casefold())
         levels[level_id] = LevelRecord(
             tier=level.tier,
             uid=level.uid,
             user=user,
-            clan=user_clans.get(user.casefold()),
+            clan=clan,
+            credit=TIER_POINTS[level.tier] if clan else 0,
         )
     state = State(points=dict(BASELINE), levels=levels, pending=None)
     save_state(path, state)
