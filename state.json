@@ -1,7 +1,7 @@
 {
   "version": 2,
   "points": {
-    "RED": 86,
+    "RED": 46,
     "GREEN": 39,
     "BLUE": 50,
     "YELLO": 32,
@@ -13,2707 +13,3151 @@
       "tier": "mythic",
       "uid": "127",
       "user": "Astro",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "633": {
       "tier": "mythic",
       "uid": "209",
       "user": "Flyx",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 40
     },
     "1284": {
       "tier": "mythic",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 40
     },
     "361": {
       "tier": "mythic",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 40
     },
     "1626": {
       "tier": "mythic",
       "uid": "892",
       "user": "OmaxMorales",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "169": {
       "tier": "mythic",
       "uid": "93",
       "user": "Cato",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1049": {
       "tier": "mythic",
       "uid": "519",
       "user": "elektrick",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1453": {
       "tier": "mythic",
       "uid": "799",
       "user": "bazzie",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1674": {
       "tier": "mythic",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 40
     },
     "1086": {
       "tier": "mythic",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 40
     },
     "241": {
       "tier": "legendary",
       "uid": "104",
       "user": "Random",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "306": {
       "tier": "legendary",
       "uid": "79",
       "user": "NutzyGamer",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 20
     },
     "102": {
       "tier": "legendary",
       "uid": "73",
       "user": "EliamRA",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 20
     },
     "322": {
       "tier": "legendary",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 20
     },
     "1689": {
       "tier": "legendary",
       "uid": "872",
       "user": "SilentUnknown",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "173": {
       "tier": "legendary",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 20
     },
     "1807": {
       "tier": "legendary",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 20
     },
     "323": {
       "tier": "legendary",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 20
     },
     "1604": {
       "tier": "legendary",
       "uid": "123",
       "user": "GarchompEX",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 20
     },
     "579": {
       "tier": "legendary",
       "uid": "195",
       "user": "ZellWowStar",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "704": {
       "tier": "legendary",
       "uid": "81",
       "user": "BloomTails",
-      "clan": "TCD"
+      "clan": "TCD",
+      "credit": 20
     },
     "1773": {
       "tier": "legendary",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 20
     },
     "780": {
       "tier": "legendary",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 20
     },
     "1052": {
       "tier": "legendary",
       "uid": "524",
       "user": "Samstreem",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1843": {
       "tier": "legendary",
       "uid": "964",
       "user": "Dragonix",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1627": {
       "tier": "legendary",
       "uid": "123",
       "user": "GarchompEX",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 20
     },
     "1663": {
       "tier": "legendary",
       "uid": "892",
       "user": "OmaxMorales",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1429": {
       "tier": "legendary",
       "uid": "209",
       "user": "Flyx",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 20
     },
     "1696": {
       "tier": "legendary",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 20
     },
     "332": {
       "tier": "legendary",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 20
     },
     "342": {
       "tier": "legendary",
       "uid": "127",
       "user": "Astro",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1691": {
       "tier": "legendary",
       "uid": "913",
       "user": "LarpTailsXD",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "427": {
       "tier": "legendary",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 20
     },
     "1563": {
       "tier": "legendary",
       "uid": "93",
       "user": "Cato",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "274": {
       "tier": "epic",
       "uid": "112",
       "user": "clover",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "316": {
       "tier": "epic",
       "uid": "123",
       "user": "GarchompEX",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 10
     },
     "1094": {
       "tier": "epic",
       "uid": "548",
       "user": "Echo",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "550": {
       "tier": "epic",
       "uid": "74",
       "user": "wudja",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "1460": {
       "tier": "epic",
       "uid": "804",
       "user": "rex",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "405": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "1059": {
       "tier": "epic",
       "uid": "526",
       "user": "volo100",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1080": {
       "tier": "epic",
       "uid": "548",
       "user": "Echo",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1628": {
       "tier": "epic",
       "uid": "248",
       "user": "SUPERSTAR5555",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "1189": {
       "tier": "epic",
       "uid": "193",
       "user": "skorka",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1285": {
       "tier": "epic",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "1451": {
       "tier": "epic",
       "uid": "791",
       "user": "GreenTeam",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "455": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "769": {
       "tier": "epic",
       "uid": "268",
       "user": "Pimsik",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 10
     },
     "315": {
       "tier": "epic",
       "uid": "122",
       "user": "hiints",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1624": {
       "tier": "epic",
       "uid": "891",
       "user": "CINDER",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1383": {
       "tier": "epic",
       "uid": "243",
       "user": "PlasticMemories",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "694": {
       "tier": "epic",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 10
     },
     "1727": {
       "tier": "epic",
       "uid": "791",
       "user": "GreenTeam",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "207": {
       "tier": "epic",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "252": {
       "tier": "epic",
       "uid": "104",
       "user": "Random",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "616": {
       "tier": "epic",
       "uid": "202",
       "user": "Zeppy",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1399": {
       "tier": "epic",
       "uid": "171",
       "user": "ChewyShapez",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "234": {
       "tier": "epic",
       "uid": "73",
       "user": "EliamRA",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "1277": {
       "tier": "epic",
       "uid": "503",
       "user": "bese",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 10
     },
     "1619": {
       "tier": "epic",
       "uid": "885",
       "user": "TheCrazyCob",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1193": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "1201": {
       "tier": "epic",
       "uid": "526",
       "user": "volo100",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1021": {
       "tier": "epic",
       "uid": "175",
       "user": "tix",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "1708": {
       "tier": "epic",
       "uid": "248",
       "user": "SUPERSTAR5555",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "962": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "486": {
       "tier": "epic",
       "uid": "176",
       "user": "zendli",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "1795": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "264": {
       "tier": "epic",
       "uid": "99",
       "user": "Zack",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1751": {
       "tier": "epic",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 10
     },
     "1274": {
       "tier": "epic",
       "uid": "112",
       "user": "clover",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1565": {
       "tier": "epic",
       "uid": "112",
       "user": "clover",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1398": {
       "tier": "epic",
       "uid": "765",
       "user": "User",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1692": {
       "tier": "epic",
       "uid": "117",
       "user": "thevoidjake",
-      "clan": "BRD"
+      "clan": "BRD",
+      "credit": 10
     },
     "424": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "779": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "528": {
       "tier": "epic",
       "uid": "127",
       "user": "Astro",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1044": {
       "tier": "epic",
       "uid": "503",
       "user": "bese",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 10
     },
     "1606": {
       "tier": "epic",
       "uid": "123",
       "user": "GarchompEX",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 10
     },
     "1953": {
       "tier": "epic",
       "uid": "123",
       "user": "GarchompEX",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 10
     },
     "1442": {
       "tier": "epic",
       "uid": "758",
       "user": "FPEEU",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "1191": {
       "tier": "epic",
       "uid": "548",
       "user": "Echo",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "713": {
       "tier": "epic",
       "uid": "243",
       "user": "PlasticMemories",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "1740": {
       "tier": "epic",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 10
     },
     "1742": {
       "tier": "epic",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 10
     },
     "1556": {
       "tier": "epic",
       "uid": "853",
       "user": "ATRI",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1625": {
       "tier": "epic",
       "uid": "891",
       "user": "CINDER",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "610": {
       "tier": "epic",
       "uid": "104",
       "user": "Random",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1902": {
       "tier": "epic",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "651": {
       "tier": "epic",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "1949": {
       "tier": "epic",
       "uid": "976",
       "user": "ValderusUWU",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "706": {
       "tier": "epic",
       "uid": "99",
       "user": "Zack",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1741": {
       "tier": "epic",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 10
     },
     "473": {
       "tier": "epic",
       "uid": "175",
       "user": "tix",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "1527": {
       "tier": "epic",
       "uid": "840",
       "user": "Miroor",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 10
     },
     "1019": {
       "tier": "epic",
       "uid": "501",
       "user": "Syne",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1537": {
       "tier": "epic",
       "uid": "112",
       "user": "clover",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "347": {
       "tier": "epic",
       "uid": "127",
       "user": "Astro",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1661": {
       "tier": "epic",
       "uid": "904",
       "user": "TheweKT",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "216": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "529": {
       "tier": "epic",
       "uid": "127",
       "user": "Astro",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "547": {
       "tier": "epic",
       "uid": "171",
       "user": "ChewyShapez",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1890": {
       "tier": "epic",
       "uid": "964",
       "user": "Dragonix",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "213": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "576": {
       "tier": "epic",
       "uid": "190",
       "user": "griffin",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "214": {
       "tier": "epic",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "383": {
       "tier": "featured",
       "uid": "104",
       "user": "Random",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "692": {
       "tier": "featured",
       "uid": "198",
       "user": "Jolaf",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "215": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1035": {
       "tier": "featured",
       "uid": "486",
       "user": "Magma",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "736": {
       "tier": "featured",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "634": {
       "tier": "featured",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "1318": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "677": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "302": {
       "tier": "featured",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "1564": {
       "tier": "featured",
       "uid": "112",
       "user": "clover",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1351": {
       "tier": "star",
       "uid": "736",
       "user": "Ryan",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1372": {
       "tier": "featured",
       "uid": "486",
       "user": "Magma",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "101": {
       "tier": "epic",
       "uid": "72",
       "user": "Frigid",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "118": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1726": {
       "tier": "featured",
       "uid": "268",
       "user": "Pimsik",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "1517": {
       "tier": "featured",
       "uid": "701",
       "user": "Ortyo",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1917": {
       "tier": "featured",
       "uid": "989",
       "user": "asyntu",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1699": {
       "tier": "featured",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1205": {
       "tier": "featured",
       "uid": "486",
       "user": "Magma",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "227": {
       "tier": "featured",
       "uid": "79",
       "user": "NutzyGamer",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "1251": {
       "tier": "featured",
       "uid": "701",
       "user": "Ortyo",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "516": {
       "tier": "featured",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "1815": {
       "tier": "featured",
       "uid": "830",
       "user": "WudjAnotherone",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "310": {
       "tier": "featured",
       "uid": "82",
       "user": "MudAnimates",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "567": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "107": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "229": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "761": {
       "tier": "featured",
       "uid": "198",
       "user": "Jolaf",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "260": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1801": {
       "tier": "featured",
       "uid": "176",
       "user": "zendli",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "551": {
       "tier": "featured",
       "uid": "176",
       "user": "zendli",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "1319": {
       "tier": "featured",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "556": {
       "tier": "featured",
       "uid": "176",
       "user": "zendli",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "1871": {
       "tier": "featured",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 5
     },
     "631": {
       "tier": "featured",
       "uid": "206",
       "user": "TeamYellow",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "155": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1232": {
       "tier": "featured",
       "uid": "486",
       "user": "Magma",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "1756": {
       "tier": "featured",
       "uid": "935",
       "user": "SubZer0",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "231": {
       "tier": "featured",
       "uid": "99",
       "user": "Zack",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "489": {
       "tier": "featured",
       "uid": "176",
       "user": "zendli",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "1260": {
       "tier": "featured",
       "uid": "701",
       "user": "Ortyo",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1525": {
       "tier": "featured",
       "uid": "817",
       "user": "Rolling9",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "514": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "521": {
       "tier": "featured",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "1568": {
       "tier": "featured",
       "uid": "853",
       "user": "ATRI",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1320": {
       "tier": "featured",
       "uid": "486",
       "user": "Magma",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "1066": {
       "tier": "featured",
       "uid": "486",
       "user": "Magma",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "566": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1607": {
       "tier": "featured",
       "uid": "885",
       "user": "TheCrazyCob",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1615": {
       "tier": "featured",
       "uid": "799",
       "user": "bazzie",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1402": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "174": {
       "tier": "featured",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "1258": {
       "tier": "featured",
       "uid": "713",
       "user": "Kat",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1776": {
       "tier": "featured",
       "uid": "856",
       "user": "Saphire2415",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "1290": {
       "tier": "featured",
       "uid": "735",
       "user": "Carnate",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1048": {
       "tier": "featured",
       "uid": "470",
       "user": "RobTop",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1560": {
       "tier": "featured",
       "uid": "117",
       "user": "thevoidjake",
-      "clan": "BRD"
+      "clan": "BRD",
+      "credit": 5
     },
     "1575": {
       "tier": "featured",
       "uid": "804",
       "user": "rex",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1065": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "575": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "578": {
       "tier": "featured",
       "uid": "193",
       "user": "skorka",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "325": {
       "tier": "featured",
       "uid": "117",
       "user": "thevoidjake",
-      "clan": "BRD"
+      "clan": "BRD",
+      "credit": 5
     },
     "1868": {
       "tier": "star",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 1
     },
     "1620": {
       "tier": "featured",
       "uid": "799",
       "user": "bazzie",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "618": {
       "tier": "featured",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "140": {
       "tier": "featured",
       "uid": "74",
       "user": "wudja",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1684": {
       "tier": "featured",
       "uid": "503",
       "user": "bese",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "1439": {
       "tier": "featured",
       "uid": "782",
       "user": "HycTheGreat",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1698": {
       "tier": "featured",
       "uid": "222",
       "user": "JuanCruzzz",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "686": {
       "tier": "featured",
       "uid": "157",
       "user": "Nurasaill",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1732": {
       "tier": "featured",
       "uid": "701",
       "user": "Ortyo",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "465": {
       "tier": "featured",
       "uid": "73",
       "user": "EliamRA",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "755": {
       "tier": "featured",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "1545": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "284": {
       "tier": "featured",
       "uid": "113",
       "user": "NoveltyTeam",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "300": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1857": {
       "tier": "featured",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1858": {
       "tier": "featured",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1863": {
       "tier": "featured",
       "uid": "970",
       "user": "NeoNX50",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "614": {
       "tier": "featured",
       "uid": "196",
       "user": "geometrydash",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1905": {
       "tier": "featured",
       "uid": "975",
       "user": "whoami",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "643": {
       "tier": "featured",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "1695": {
       "tier": "featured",
       "uid": "782",
       "user": "HycTheGreat",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "421": {
       "tier": "featured",
       "uid": "73",
       "user": "EliamRA",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "689": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1739": {
       "tier": "featured",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 5
     },
     "738": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1821": {
       "tier": "featured",
       "uid": "268",
       "user": "Pimsik",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "555": {
       "tier": "featured",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "1597": {
       "tier": "featured",
       "uid": "122",
       "user": "hiints",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "337": {
       "tier": "featured",
       "uid": "80",
       "user": "Igneous",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "606": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "619": {
       "tier": "featured",
       "uid": "200",
       "user": "Creatorplus",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "647": {
       "tier": "featured",
       "uid": "210",
       "user": "AtomiX",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "650": {
       "tier": "featured",
       "uid": "117",
       "user": "thevoidjake",
-      "clan": "BRD"
+      "clan": "BRD",
+      "credit": 5
     },
     "1679": {
       "tier": "featured",
       "uid": "176",
       "user": "zendli",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "676": {
       "tier": "featured",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "454": {
       "tier": "featured",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "475": {
       "tier": "featured",
       "uid": "112",
       "user": "clover",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "997": {
       "tier": "featured",
       "uid": "475",
       "user": "ThSeek",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1778": {
       "tier": "featured",
       "uid": "856",
       "user": "Saphire2415",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "767": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "258": {
       "tier": "featured",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "1550": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "557": {
       "tier": "featured",
       "uid": "113",
       "user": "NoveltyTeam",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1581": {
       "tier": "featured",
       "uid": "817",
       "user": "Rolling9",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "1866": {
       "tier": "featured",
       "uid": "856",
       "user": "Saphire2415",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "1876": {
       "tier": "featured",
       "uid": "964",
       "user": "Dragonix",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1384": {
       "tier": "featured",
       "uid": "179",
       "user": "Bao143",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "658": {
       "tier": "featured",
       "uid": "214",
       "user": "thedarkcloakcat",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "664": {
       "tier": "featured",
       "uid": "117",
       "user": "thevoidjake",
-      "clan": "BRD"
+      "clan": "BRD",
+      "credit": 5
     },
     "1945": {
       "tier": "featured",
       "uid": "486",
       "user": "Magma",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "937": {
       "tier": "featured",
       "uid": "230",
       "user": "kenzieshane",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1705": {
       "tier": "featured",
       "uid": "122",
       "user": "hiints",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "735": {
       "tier": "featured",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "752": {
       "tier": "featured",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1538": {
       "tier": "featured",
       "uid": "848",
       "user": "clwvm",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "638": {
       "tier": "featured",
       "uid": "189",
       "user": "reupload2",
-      "clan": "TCD"
+      "clan": "TCD",
+      "credit": 5
     },
     "391": {
       "tier": "featured",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "1694": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "164": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1765": {
       "tier": "featured",
       "uid": "830",
       "user": "WudjAnotherone",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1508": {
       "tier": "featured",
       "uid": "765",
       "user": "User",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "254": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "559": {
       "tier": "featured",
       "uid": "157",
       "user": "Nurasaill",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "644": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "625": {
       "tier": "featured",
       "uid": "113",
       "user": "NoveltyTeam",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "138": {
       "tier": "star",
       "uid": "74",
       "user": "wudja",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "105": {
       "tier": "star",
       "uid": "74",
       "user": "wudja",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "330": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "756": {
       "tier": "star",
       "uid": "202",
       "user": "Zeppy",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "279": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "228": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "759": {
       "tier": "star",
       "uid": "157",
       "user": "Nurasaill",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "731": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "744": {
       "tier": "star",
       "uid": "259",
       "user": "mark06",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "775": {
       "tier": "featured",
       "uid": "268",
       "user": "Pimsik",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "230": {
       "tier": "star",
       "uid": "101",
       "user": "BrySky",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "158": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "104": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1510": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1400": {
       "tier": "star",
       "uid": "701",
       "user": "Ortyo",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1350": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "348": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "157": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "134": {
       "tier": "star",
       "uid": "80",
       "user": "Igneous",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1480": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1386": {
       "tier": "star",
       "uid": "770",
       "user": "sixenn",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1313": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "730": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "712": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "205": {
       "tier": "star",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 1
     },
     "108": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1456": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1261": {
       "tier": "star",
       "uid": "198",
       "user": "Jolaf",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1226": {
       "tier": "star",
       "uid": "548",
       "user": "Echo",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "746": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "679": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1079": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1622": {
       "tier": "star",
       "uid": "886",
       "user": "Alexich",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1367": {
       "tier": "star",
       "uid": "761",
       "user": "bastidea2",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "615": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1768": {
       "tier": "star",
       "uid": "830",
       "user": "WudjAnotherone",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "243": {
       "tier": "star",
       "uid": "104",
       "user": "Random",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1016": {
       "tier": "star",
       "uid": "470",
       "user": "RobTop",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "770": {
       "tier": "star",
       "uid": "252",
       "user": "Sourcat",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "525": {
       "tier": "star",
       "uid": "178",
       "user": "UltraDash",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "308": {
       "tier": "star",
       "uid": "108",
       "user": "YZdashity",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "1092": {
       "tier": "star",
       "uid": "548",
       "user": "Echo",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1862": {
       "tier": "star",
       "uid": "701",
       "user": "Ortyo",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1358": {
       "tier": "star",
       "uid": "713",
       "user": "Kat",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1874": {
       "tier": "star",
       "uid": "974",
       "user": "rasd",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "109": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "629": {
       "tier": "star",
       "uid": "206",
       "user": "TeamYellow",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1653": {
       "tier": "star",
       "uid": "758",
       "user": "FPEEU",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "1401": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1222": {
       "tier": "star",
       "uid": "533",
       "user": "Karim",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "223": {
       "tier": "star",
       "uid": "101",
       "user": "BrySky",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "1774": {
       "tier": "star",
       "uid": "233",
       "user": "paperpenguins",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "763": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "286": {
       "tier": "star",
       "uid": "113",
       "user": "NoveltyTeam",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1632": {
       "tier": "star",
       "uid": "112",
       "user": "clover",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "113": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "669": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1190": {
       "tier": "star",
       "uid": "503",
       "user": "bese",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1449": {
       "tier": "star",
       "uid": "503",
       "user": "bese",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1747": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1243": {
       "tier": "star",
       "uid": "143",
       "user": "Dragon",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "768": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "267": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1812": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1323": {
       "tier": "star",
       "uid": "476",
       "user": "tjxgodd",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "318": {
       "tier": "star",
       "uid": "101",
       "user": "BrySky",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "1856": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1869": {
       "tier": "star",
       "uid": "856",
       "user": "Saphire2415",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 1
     },
     "598": {
       "tier": "star",
       "uid": "198",
       "user": "Jolaf",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1419": {
       "tier": "star",
       "uid": "265",
       "user": "Zeny",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1420": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1426": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "681": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1454": {
       "tier": "star",
       "uid": "758",
       "user": "FPEEU",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "1729": {
       "tier": "star",
       "uid": "268",
       "user": "Pimsik",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "745": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "239": {
       "tier": "star",
       "uid": "101",
       "user": "BrySky",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "501": {
       "tier": "star",
       "uid": "178",
       "user": "UltraDash",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "249": {
       "tier": "star",
       "uid": "101",
       "user": "BrySky",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "1796": {
       "tier": "star",
       "uid": "198",
       "user": "Jolaf",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1829": {
       "tier": "star",
       "uid": "957",
       "user": "Krishere",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1845": {
       "tier": "star",
       "uid": "117",
       "user": "thevoidjake",
-      "clan": "BRD"
+      "clan": "BRD",
+      "credit": 1
     },
     "1861": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1621": {
       "tier": "star",
       "uid": "193",
       "user": "skorka",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "353": {
       "tier": "star",
       "uid": "136",
       "user": "Water",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "360": {
       "tier": "star",
       "uid": "140",
       "user": "zyreth",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "621": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1654": {
       "tier": "star",
       "uid": "867",
       "user": "galactice",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1920": {
       "tier": "star",
       "uid": "268",
       "user": "Pimsik",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "653": {
       "tier": "star",
       "uid": "202",
       "user": "Zeppy",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "156": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "435": {
       "tier": "star",
       "uid": "72",
       "user": "Frigid",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "699": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1487": {
       "tier": "star",
       "uid": "817",
       "user": "Rolling9",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1743": {
       "tier": "star",
       "uid": "222",
       "user": "JuanCruzzz",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "725": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "992": {
       "tier": "star",
       "uid": "473",
       "user": "Rtpgw",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "750": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "765": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "262": {
       "tier": "star",
       "uid": "101",
       "user": "BrySky",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "273": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1578": {
       "tier": "star",
       "uid": "867",
       "user": "galactice",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1073": {
       "tier": "star",
       "uid": "503",
       "user": "bese",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1842": {
       "tier": "star",
       "uid": "964",
       "user": "Dragonix",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1844": {
       "tier": "star",
       "uid": "964",
       "user": "Dragonix",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1077": {
       "tier": "star",
       "uid": "210",
       "user": "AtomiX",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1600": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1860": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "334": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1875": {
       "tier": "star",
       "uid": "964",
       "user": "Dragonix",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1879": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1884": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "122": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1919": {
       "tier": "star",
       "uid": "989",
       "user": "asyntu",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1927": {
       "tier": "star",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 1
     },
     "655": {
       "tier": "star",
       "uid": "197",
       "user": "mamory",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1436": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "165": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "714": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1231": {
       "tier": "star",
       "uid": "678",
       "user": "Universal",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1583": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "574": {
       "tier": "star",
       "uid": "193",
       "user": "skorka",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1867": {
       "tier": "star",
       "uid": "951",
       "user": "playergdps",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1877": {
       "tier": "star",
       "uid": "976",
       "user": "ValderusUWU",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1423": {
       "tier": "star",
       "uid": "492",
       "user": "PurpleGDPS",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "657": {
       "tier": "star",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 1
     },
     "1943": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "420": {
       "tier": "star",
       "uid": "157",
       "user": "Nurasaill",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1446": {
       "tier": "star",
       "uid": "758",
       "user": "FPEEU",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "429": {
       "tier": "star",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "734": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "740": {
       "tier": "star",
       "uid": "176",
       "user": "zendli",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "1786": {
       "tier": "star",
       "uid": "744",
       "user": "BeepablesALT",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1813": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1846": {
       "tier": "star",
       "uid": "964",
       "user": "Dragonix",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1851": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "572": {
       "tier": "star",
       "uid": "113",
       "user": "NoveltyTeam",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1859": {
       "tier": "star",
       "uid": "867",
       "user": "galactice",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "394": {
       "tier": "star",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "400": {
       "tier": "star",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1946": {
       "tier": "star",
       "uid": "997",
       "user": "progamerofgd",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "766": {
       "tier": "star",
       "uid": "157",
       "user": "Nurasaill",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "270": {
       "tier": "star",
       "uid": "111",
       "user": "gdbigqb",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1811": {
       "tier": "star",
       "uid": "940",
       "user": "DeluxeGMD",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1825": {
       "tier": "star",
       "uid": "532",
       "user": "Blugeodudeguy",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1936": {
       "tier": "star",
       "uid": "1002",
       "user": "MrRandom1298",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1948": {
       "tier": "star",
       "uid": "1005",
       "user": "LawnMower",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "1489": {
       "tier": "star",
       "uid": "177",
       "user": "sigma",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "434": {
       "tier": "star",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "737": {
       "tier": "star",
       "uid": "218",
       "user": "Bboppa",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "526": {
       "tier": "star",
       "uid": "175",
       "user": "tix",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "522": {
       "tier": "star",
       "uid": "117",
       "user": "thevoidjake",
-      "clan": "BRD"
+      "clan": "BRD",
+      "credit": 1
     },
     "408": {
       "tier": "star",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 1
     },
     "1957": {
       "tier": "epic",
       "uid": "540",
       "user": "IcePhoenix284",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "2024": {
       "tier": "epic",
       "uid": "248",
       "user": "SUPERSTAR5555",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "2026": {
       "tier": "featured",
       "uid": "72",
       "user": "Frigid",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "275": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "2029": {
       "tier": "featured",
       "uid": "1010",
       "user": "Cyri",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "1507": {
       "tier": "star",
       "uid": "723",
       "user": "Shiroi",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "2039": {
       "tier": "star",
       "uid": "1046",
       "user": "ToteroGDPS",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2040": {
       "tier": "legendary",
       "uid": "1047",
       "user": "pixeldash5",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 20
     },
     "2045": {
       "tier": "star",
       "uid": "988",
       "user": "Orion",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "2048": {
       "tier": "legendary",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 20
     },
     "2047": {
       "tier": "epic",
       "uid": "1047",
       "user": "pixeldash5",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 10
     },
     "2051": {
       "tier": "epic",
       "uid": "72",
       "user": "Frigid",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2044": {
       "tier": "star",
       "uid": "1047",
       "user": "pixeldash5",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 1
     },
     "2053": {
       "tier": "star",
       "uid": "1047",
       "user": "pixeldash5",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 1
     },
     "1299": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "1614": {
       "tier": "star",
       "uid": "886",
       "user": "Alexich",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2055": {
       "tier": "star",
       "uid": "1047",
       "user": "pixeldash5",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 1
     },
     "2052": {
       "tier": "featured",
       "uid": "82",
       "user": "MudAnimates",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "2057": {
       "tier": "legendary",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 20
     },
     "2060": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "2056": {
       "tier": "featured",
       "uid": "1002",
       "user": "MrRandom1298",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2061": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "2065": {
       "tier": "star",
       "uid": "1060",
       "user": "YakuNeko",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2066": {
       "tier": "star",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "2067": {
       "tier": "star",
       "uid": "1060",
       "user": "YakuNeko",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2068": {
       "tier": "star",
       "uid": "1047",
       "user": "pixeldash5",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 1
     },
     "2070": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "2075": {
       "tier": "featured",
       "uid": "268",
       "user": "Pimsik",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 5
     },
     "2074": {
       "tier": "star",
       "uid": "1043",
       "user": "kirbyfan123",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "2077": {
       "tier": "epic",
       "uid": "175",
       "user": "tix",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "2079": {
       "tier": "star",
       "uid": "976",
       "user": "ValderusUWU",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "583": {
       "tier": "epic",
       "uid": "81",
       "user": "BloomTails",
-      "clan": "TCD"
+      "clan": "TCD",
+      "credit": 10
     },
     "2082": {
       "tier": "featured",
       "uid": "1067",
       "user": "ispy",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2083": {
       "tier": "epic",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "2086": {
       "tier": "featured",
       "uid": "98",
       "user": "truRoz",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "622": {
       "tier": "featured",
       "uid": "81",
       "user": "BloomTails",
-      "clan": "TCD"
+      "clan": "TCD",
+      "credit": 5
     },
     "2092": {
       "tier": "star",
       "uid": "1010",
       "user": "Cyri",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "2094": {
       "tier": "featured",
       "uid": "1068",
       "user": "HaturzCarrier",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "2104": {
       "tier": "featured",
       "uid": "856",
       "user": "Saphire2415",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 5
     },
     "2109": {
       "tier": "featured",
       "uid": "958",
       "user": "VampierKnife",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 5
     },
     "2110": {
       "tier": "epic",
       "uid": "1087",
       "user": "Fresita",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2117": {
       "tier": "epic",
       "uid": "931",
       "user": "Nooo",
-      "clan": "POC"
+      "clan": "POC",
+      "credit": 10
     },
     "1916": {
       "tier": "featured",
       "uid": "81",
       "user": "BloomTails",
-      "clan": "TCD"
+      "clan": "TCD",
+      "credit": 5
     },
     "2120": {
       "tier": "epic",
       "uid": "72",
       "user": "Frigid",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2121": {
       "tier": "epic",
       "uid": "958",
       "user": "VampierKnife",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 10
     },
     "1826": {
       "tier": "star",
       "uid": "744",
       "user": "BeepablesALT",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2118": {
       "tier": "star",
       "uid": "1089",
       "user": "Square",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2127": {
       "tier": "star",
       "uid": "209",
       "user": "Flyx",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 1
     },
     "2141": {
       "tier": "mythic",
       "uid": "94",
       "user": "masterfes",
-      "clan": "BLUE"
+      "clan": "BLUE",
+      "credit": 40
     },
     "2139": {
       "tier": "epic",
       "uid": "1092",
       "user": "account",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 10
     },
     "2125": {
       "tier": "star",
       "uid": "1089",
       "user": "Square",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2152": {
       "tier": "legendary",
       "uid": "175",
       "user": "tix",
-      "clan": "RED"
+      "clan": "RED",
+      "credit": 20
     },
     "2150": {
       "tier": "featured",
       "uid": "1010",
       "user": "Cyri",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "2155": {
       "tier": "epic",
       "uid": "116",
       "user": "kanameij",
-      "clan": "YELLO"
+      "clan": "YELLO",
+      "credit": 10
     },
     "1305": {
       "tier": "star",
       "uid": "736",
       "user": "Ryan",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2157": {
       "tier": "featured",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "2171": {
       "tier": "epic",
       "uid": "195",
       "user": "ZellWowStar",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2000": {
       "tier": "featured",
       "uid": "189",
       "user": "reupload2",
-      "clan": "TCD"
+      "clan": "TCD",
+      "credit": 5
     },
     "384": {
       "tier": "star",
       "uid": "117",
       "user": "thevoidjake",
-      "clan": "BRD"
+      "clan": "BRD",
+      "credit": 1
     },
     "142": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "133": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "111": {
       "tier": "star",
       "uid": "77",
       "user": "Electrosounds",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 1
     },
     "2176": {
       "tier": "featured",
       "uid": "1010",
       "user": "Cyri",
-      "clan": "GREEN"
+      "clan": "GREEN",
+      "credit": 5
     },
     "2129": {
       "tier": "star",
       "uid": "1089",
       "user": "Square",
-      "clan": null
+      "clan": null,
+      "credit": 0
     },
     "2179": {
       "tier": "epic",
       "uid": "1115",
       "user": "Gregory777",
-      "clan": "YELLO"
-    },
-    "2182": {
-      "tier": "mythic",
-      "uid": "143",
-      "user": "Dragon",
-      "clan": "RED"
+      "clan": "YELLO",
+      "credit": 10
     }
   }
 }
