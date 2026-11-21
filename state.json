@@ -2,7 +2,7 @@
   "version": 2,
   "points": {
     "RED": 46,
-    "GREEN": 44,
+    "GREEN": 49,
     "BLUE": 50,
     "YELLO": 52,
     "TCD": 5,
@@ -3139,11 +3139,11 @@
       "credit": 1
     },
     "2176": {
-      "tier": "featured",
+      "tier": "epic",
       "uid": "1010",
       "user": "Cyri",
       "clan": "GREEN",
-      "credit": 5
+      "credit": 10
     },
     "2129": {
       "tier": "star",
