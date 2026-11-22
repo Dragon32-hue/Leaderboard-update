@@ -2,7 +2,7 @@
   "version": 2,
   "points": {
     "RED": 46,
-    "GREEN": 49,
+    "GREEN": 69,
     "BLUE": 50,
     "YELLO": 52,
     "TCD": 5,
@@ -3158,6 +3158,27 @@
       "user": "Gregory777",
       "clan": "YELLO",
       "credit": 10
+    },
+    "2186": {
+      "tier": "epic",
+      "uid": "1115",
+      "user": "Gregory777",
+      "clan": "GREEN",
+      "credit": 10
+    },
+    "2187": {
+      "tier": "featured",
+      "uid": "98",
+      "user": "truRoz",
+      "clan": "GREEN",
+      "credit": 5
+    },
+    "2188": {
+      "tier": "featured",
+      "uid": "98",
+      "user": "truRoz",
+      "clan": "GREEN",
+      "credit": 5
     }
   }
 }
